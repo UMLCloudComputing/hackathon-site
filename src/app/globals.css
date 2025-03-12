@@ -30,3 +30,8 @@ body {
   border-radius: 12px;
 }
 
+.remove_scrollbar {
+  scrollbar-width: 'none';
+  overflow-x: hidden;
+  -ms-overflow-style: none;
+}
