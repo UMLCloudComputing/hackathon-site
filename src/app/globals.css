@@ -35,3 +35,11 @@ body {
   overflow-x: hidden;
   -ms-overflow-style: none;
 }
+
+.club_logo{
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+}
