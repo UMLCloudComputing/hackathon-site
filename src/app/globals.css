@@ -19,6 +19,10 @@
   }
 }
 
+.text-black {
+  color: black;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
